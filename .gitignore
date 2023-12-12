@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# address book database file
+address_book.pb.db
