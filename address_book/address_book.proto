@@ -3,7 +3,7 @@ package address_book;
 
 import "google/protobuf/timestamp.proto";
 
-option go_package = ".";
+option go_package = "github.com/ahmeducf/address-book/address_book";
 
 message Person {
   string name  = 1;
